@@ -1,17 +1,24 @@
 ---
-title:  "Title of the publication"
-date:   2021-07-13 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>John Doe</a></strong>"
+title:  "Automatic multiorgan segmentation in thorax CT images using U-net-GAN"
+date:   2019-02-27 09:26:00 +00:00
+image: /publications/images/unetgan_thorax_ct_image.jpg
+# image_onhover: /publications/images/project-image-on-hover.jpg
+authors: "Xue Dong, Yang Lei, Tonghe Wang, Matthew Thomas, <strong>Leonardo Tang</strong>, Walter J. Curran, Tian Liu, and Xiaofeng Yang"
 venue: "Venue"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Title of the publication},
-    year = {2021}
-  }
+  @article{https://doi.org/10.1002/mp.13458,
+    author = {Dong, Xue and Lei, Yang and Wang, Tonghe and Thomas, Matthew and Tang, Leonardo and Curran, Walter J. and Liu, Tian and Yang, Xiaofeng},
+    title = {Automatic multiorgan segmentation in thorax CT images using U-net-GAN},
+    journal = {Medical Physics},
+    volume = {46},
+    number = {5},
+    pages = {2157-2168},
+    keywords = {chest segmentation, CT, deep learning},
+    doi = {https://doi.org/10.1002/mp.13458},
+    url = {https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13458},
+    eprint = {https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.13458},
+    abstract = {Purpose Accurate and timely organs-at-risk (OARs) segmentation is key to efficient and high-quality radiation therapy planning. The purpose of this work is to develop a deep learning-based method to automatically segment multiple thoracic OARs on chest computed tomography (CT) for radiotherapy treatment planning. Methods We propose an adversarial training strategy to train deep neural networks for the segmentation of multiple organs on thoracic CT images. The proposed design of adversarial networks, called U-Net-generative adversarial network (U-Net-GAN), jointly trains a set of U-Nets as generators and fully convolutional networks (FCNs) as discriminators. Specifically, the generator, composed of U-Net, produces an image segmentation map of multiple organs by an end-to-end mapping learned from CT image to multiorgan-segmented OARs. The discriminator, structured as an FCN, discriminates between the ground truth and segmented OARs produced by the generator. The generator and discriminator compete against each other in an adversarial learning process to produce the optimal segmentation map of multiple organs. Our segmentation results were compared with manually segmented OARs (ground truth) for quantitative evaluations in geometric difference, as well as dosimetric performance by investigating the dose-volume histogram in 20 stereotactic body radiation therapy (SBRT) lung plans. Results This segmentation technique was applied to delineate the left and right lungs, spinal cord, esophagus, and heart using 35 patients’ chest CTs. The averaged dice similarity coefficient for the above five OARs are 0.97, 0.97, 0.90, 0.75, and 0.87, respectively. The mean surface distance of the five OARs obtained with proposed method ranges between 0.4 and 1.5 mm on average among all 35 patients. The mean dose differences on the 20 SBRT lung plans are −0.001 to 0.155 Gy for the five OARs. Conclusion We have investigated a novel deep learning-based approach with a GAN strategy to segment multiple OARs in the thorax using chest CT images and demonstrated its feasibility and reliability. This is a potentially valuable method for improving the efficiency of chest radiotherapy treatment planning.},
+    year = {2019}
+    }
 ---
-Brief description of the project.
+Accurate and timely organs-at-risk (OARs) segmentation is key to efficient and high-quality radiation therapy planning. The purpose of this work is to develop a deep learning-based method to automatically segment multiple thoracic OARs on chest computed tomography (CT) for radiotherapy treatment planning. Methods We propose an adversarial training strategy to train deep neural networks for the segmentation of multiple organs on thoracic CT images. The proposed design of adversarial networks, called U-Net-generative adversarial network (U-Net-GAN), jointly trains a set of U-Nets as generators and fully convolutional networks (FCNs) as discriminators. Specifically, the generator, composed of U-Net, produces an image segmentation map of multiple organs by an end-to-end mapping learned from CT image to multiorgan-segmented OARs. The discriminator, structured as an FCN, discriminates between the ground truth and segmented OARs produced by the generator. The generator and discriminator compete against each other in an adversarial learning process to produce the optimal segmentation map of multiple organs. Our segmentation results were compared with manually segmented OARs (ground truth) for quantitative evaluations in geometric difference, as well as dosimetric performance by investigating the dose-volume histogram in 20 stereotactic body radiation therapy (SBRT) lung plans. Results This segmentation technique was applied to delineate the left and right lungs, spinal cord, esophagus, and heart using 35 patients’ chest CTs. The averaged dice similarity coefficient for the above five OARs are 0.97, 0.97, 0.90, 0.75, and 0.87, respectively. The mean surface distance of the five OARs obtained with proposed method ranges between 0.4 and 1.5 mm on average among all 35 patients. The mean dose differences on the 20 SBRT lung plans are −0.001 to 0.155 Gy for the five OARs. Conclusion We have investigated a novel deep learning-based approach with a GAN strategy to segment multiple OARs in the thorax using chest CT images and demonstrated its feasibility and reliability. This is a potentially valuable method for improving the efficiency of chest radiotherapy treatment planning.

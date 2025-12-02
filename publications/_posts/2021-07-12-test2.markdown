@@ -1,19 +1,22 @@
 ---
-title:  "Another title of the publication"
-date:   2021-07-12 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
+title:  "Hemodynamic property incorporated brain tumor segmentation by deep learning and density-based analysis of dynamic susceptibility contrast-enhanced magnetic resonance imaging (MRI)"
+date:   2024-03-28 09:26:00 +00:00
+image: /publications/images/hemodynamic_heterogeneity_qims.jpg
+# image_onhover: /publications/images/project-image-on-hover.jpg
+author: <strong>Leonardo Tang</strong>, Tianhe Wu, Ranliang Hu, Quanquan Gu, Xiaofeng Yang, Hui Mao
 authors: "<strong>John Doe</strong>"
-venue: "Venue"
+venue: "Quantitative Imaging in Medicine and Surgery"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Another title of the publication},
-    year = {2021}
+  @article{QIMS123030,
+    author = {Leonardo Tang and Tianhe Wu and Ranliang Hu and Quanquan Gu and Xiaofeng Yang and Hui Mao},
+    title = {Hemodynamic property incorporated brain tumor segmentation by deep learning and density-based analysis of dynamic susceptibility contrast-enhanced magnetic resonance imaging (MRI)},
+    journal = {Quantitative Imaging in Medicine and Surgery},
+    volume = {14},
+    number = {4},
+    year = {2024},
+    keywords = {},
+    abstract = {},
+    issn = {2223-4306},	url = {https://qims.amegroups.org/article/view/123030}
   }
-links:
-  code: https://github.com/vsimkus/academic-jekyll
 ---
-Brief description of another project.
+Magnetic resonance imaging (MRI) is a primary non-invasive imaging modality for tumor segmentation, leveraging its exceptional soft tissue contrast and high resolution. Current segmentation methods typically focus on structural MRI, such as T1-weighted post-contrast-enhanced or fluid-attenuated inversion recovery (FLAIR) sequences. However, these methods overlook the blood perfusion and hemodynamic properties of tumors, readily derived from dynamic susceptibility contrast (DSC) enhanced MRI. This study introduces a novel hybrid method combining density-based analysis of hemodynamic properties in time-dependent perfusion imaging with deep learning spatial segmentation techniques to enhance tumor segmentation.
