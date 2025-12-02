@@ -5,7 +5,7 @@ image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image.jpg
 author: "Quanquan Gu, Leonardo Tang, Nilofar Vafaie, Claire Gong, Philip Kragel, Jinbing Bai, Hui Mao"
 authors: "Quanquan Gu, <strong>Leonardo Tang</strong>, Nilofar Vafaie, Claire Gong, Philip Kragel, Jinbing Bai,  Hui Mao"
-venue: "ISMRM 2025"
+venue: "ISMRM"
 links:
   abstract: https://archive.ismrm.org/2025/2387.html
 ---

@@ -5,7 +5,7 @@ image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image.jpg
 author: "Leonardo Tang, Quanquan Gu, Tianhe Wu, Adam Ezra Goldman-Yassen, Hui Mao"
 authors: "<strong>Leonardo Tang</strong>, Quanquan Gu, Tianhe Wu, Adam Ezra Goldman-Yassen, Hui Mao"
-venue: "ISMRM 2025"
+venue: "ISMRM"
 links:
   abstract: https://archive.ismrm.org/2025/4292.html
   
