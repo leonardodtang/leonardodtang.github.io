@@ -3,7 +3,8 @@ title:  "Hemodynamic property incorporated brain tumor segmentation by deep lear
 date:   2024-03-28 09:26:00 +00:00
 image: /publications/images/hemodynamic_heterogeneity_qims.jpg
 image_onhover: /publications/images/hemodynamic_heterogeneity_qims.jpg
-authors: <strong>Leonardo Tang</strong>, Tianhe Wu, Ranliang Hu, Quanquan Gu, Xiaofeng Yang, Hui Mao
+author: "Leonardo Tang, Ranliang Hu, Quanquan Gu, Xiaofeng Yang, Hui Mao"
+authors: "<strong>Leonardo Tang</strong>, Tianhe Wu, Ranliang Hu, Quanquan Gu, Xiaofeng Yang, Hui Mao"
 venue: "Quantitative Imaging in Medicine and Surgery"
 bib: |
   @article{QIMS123030,

@@ -3,6 +3,7 @@ title:  "Automatic multiorgan segmentation in thorax CT images using U-net-GAN"
 date:   2019-02-27 09:26:00 +00:00
 image: /publications/images/unetgan_thorax_ct_image.jpg
 image_onhover: /publications/images/unetgan_thorax_ct_image.jpg
+author: "Xue Dong, Yang Lei, Tonghe Wang, Matthew Thomas, <strong>Leonardo Tang</strong>, Walter J. Curran, Tian Liu, and Xiaofeng Yang"
 authors: "Xue Dong, Yang Lei, Tonghe Wang, Matthew Thomas, <strong>Leonardo Tang</strong>, Walter J. Curran, Tian Liu, and Xiaofeng Yang"
 venue: "Medical Physics"
 bib: |

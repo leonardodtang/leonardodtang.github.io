@@ -3,7 +3,8 @@ title:  "Improving glioblastoma segmentation with deep learning and hemodynamic 
 date:   2023-09-05 09:26:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image.jpg
-authors: <strong>Leonardo Tang</strong>, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao
+author: "Leonardo Tang, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao"
+authors: "<strong>Leonardo Tang</strong>, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao"
 venue: "WMIC 2023"
 links:
   abstract: https://www.xcdsystem.com/wmis/program/K0ssSya/index.cfm?pgid=2836&sid=26427&abid=101798

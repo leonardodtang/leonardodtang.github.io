@@ -3,7 +3,8 @@ title:  "Revealing hemodynamic heterogeneity in glioblastoma and medulloblastoma
 date:   2024-12-01 09:26:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image.jpg
-authors: <strong>Leonardo Tang</strong>, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao
+author: "Leonardo Tang, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao"
+authors: "<strong>Leonardo Tang</strong>, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao"
 venue: "RSNA 2024"
 links:
   abstract: https://www.rsna.org/-/media/files/rsna/annual-meeting/future-and-past-meetings/rsna-2024-meeting-program.pdf
