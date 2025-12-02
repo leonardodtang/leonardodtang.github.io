@@ -2,7 +2,7 @@
 title:  "Hemodynamic property incorporated brain tumor segmentation by deep learning and density-based analysis of dynamic susceptibility contrast-enhanced magnetic resonance imaging (MRI)"
 date:   2024-03-28 09:26:00 +00:00
 image: /publications/images/hemodynamic_heterogeneity_qims.jpg
-# image_onhover: /publications/images/project-image-on-hover.jpg
+image_onhover: /publications/images/hemodynamic_heterogeneity_qims.jpg
 author: <strong>Leonardo Tang</strong>, Tianhe Wu, Ranliang Hu, Quanquan Gu, Xiaofeng Yang, Hui Mao
 authors: "<strong>John Doe</strong>"
 venue: "Quantitative Imaging in Medicine and Surgery"
