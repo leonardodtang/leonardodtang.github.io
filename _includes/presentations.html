@@ -1,12 +1,12 @@
-{% assign publication_posts = site.posts | contains: 'categories', 'publications' %}
-{% if publication_posts.size > 0 %}
+{% assign presentation_posts = site.posts | contains: 'categories', 'presentations' %}
+{% if presentation_posts.size > 0 %}
 <div class="row py-2">
-    <div class="col-md-12" id="publications">
-        <h2>Publications</h2>
+    <div class="col-md-12" id="presentations">
+        <h2>presentations</h2>
     </div>
 </div>
-{% for post in publication_posts reversed %}
-<div class="row py-2 publication">
+{% for post in presentation_posts reversed %}
+<div class="row py-2 presentation">
     <div class="col-md-2 col-sm-12 project-thumbnail-parent" align="center">
         <img class="project-thumbnail {% if post.image_onhover %} pre-hover {% endif %}" src="{{site.baseurl}}/tn{{post.image}}" alt="project image" />
         {% if post.image_onhover %}
@@ -30,8 +30,8 @@
         {% if post.bib %}
         {% if need_separator %} / {% endif %}
         {% assign need_separator = true %}
-        <a href="" data-toggle="modal" data-target="#publicationBibModal{{forloop.index}}">bib</a>
-        <div class="modal fade" id="publicationBibModal{{forloop.index}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <a href="" data-toggle="modal" data-target="#presentationBibModal{{forloop.index}}">bib</a>
+        <div class="modal fade" id="presentationBibModal{{forloop.index}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog d-md-table" role="document">
                 <div class="modal-content">
                 <div class="modal-header">

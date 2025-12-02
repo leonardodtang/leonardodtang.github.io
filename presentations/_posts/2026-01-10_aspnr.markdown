@@ -1,0 +1,10 @@
+---
+title:  "Glymphatic dysfunction in pediatric-onset multiple sclerosis and anti-myelin oligodendrocyte glycoprotein antibody associated disorder [Scientific Poster]"
+date:   2026-03-28 09:26:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image.jpg
+author: Austin Wheeler, <strong>Leonardo Tang</strong>, Quanquan Gu, Yuri Shishido, Hui Mao, Grace Gombolay, Adam Ezra Goldman-Yassen
+authors: "<strong>John Doe</strong>"
+venue: "ASPNR 2026 (Upcoming)"
+---
+Anti-myelin oligodendrocyte glycoprotein (MOG) associated disorder (MOGAD) is a neuroinflammatory disease that can mimic other demyelinating diseases, such as multiple sclerosis (MS). Dysfunction of the glymphatic system, a lymph-like system for the brain, may contribute to neuroinflammation. Diffusion tensor imaging (DTI) along the perivascular space (DTI-ALPS) can be used to evaluate glymphatic dysfunction. and has been used to assess glymphatic dysfunction in adults with MOGAD and in pediatric MS, but not in pediatric MOGAD. Here we measure glymphatic dysfunction using DTI-ALPS in children with MS and MOGAD. A prospective, cross-sectional study was conducted involving pediatric patients diagnosed with pediatric-onset MS (POMS) or MOGAD, as well as control patients obtaining brain imaging without a diagnosed neurologic disorder
