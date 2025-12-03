@@ -5,7 +5,7 @@ image: /publications/images/hemodynamic-heterogeneity-qims.jpg
 image_onhover: /publications/images/hemodynamic-heterogeneity-qims.jpg
 author: "Leonardo Tang, Ranliang Hu, Quanquan Gu, Xiaofeng Yang, Hui Mao"
 authors: "<strong>Leonardo Tang</strong>, Tianhe Wu, Ranliang Hu, Quanquan Gu, Xiaofeng Yang, Hui Mao"
-venue: "Quantitative Imaging in Medicine and Surgery"
+venue: "Quantitative Imaging in Medicine and Surgery, 2024"
 bib: |
   @article{QIMS123030,
     author = {Leonardo Tang and Tianhe Wu and Ranliang Hu and Quanquan Gu and Xiaofeng Yang and Hui Mao},

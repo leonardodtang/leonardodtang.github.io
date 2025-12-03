@@ -1,11 +1,11 @@
 ---
 title:  "Altered cerebrospinal fluid dynamics in Alzheimer's disease as measured by resting-state fMRI [Digital Poster]"
 date:   2025-05-10 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image.jpg
+image: /publications/images/ismrm2025.jpg
+image_onhover: /publications/images/ismrm2025.jpg
 author: "Leonardo Tang, Quanquan Gu, Tianhe Wu, Hui Mao"
 authors: "<strong>Leonardo Tang</strong>, Quanquan Gu, Tianhe Wu, Hui Mao"
-venue: "ISMRM"
+venue: "ISMRM 2025"
 links:
   abstract: https://archive.ismrm.org/2025/2995.html
 ---

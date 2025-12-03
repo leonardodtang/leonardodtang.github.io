@@ -5,7 +5,7 @@ image: /publications/images/unetgan-thorax-ct-image.jpg
 image_onhover: /publications/images/unetgan-thorax-ct-image.jpg
 author: "Xue Dong, Yang Lei, Tonghe Wang, Matthew Thomas, <strong>Leonardo Tang</strong>, Walter J. Curran, Tian Liu, and Xiaofeng Yang"
 authors: "Xue Dong, Yang Lei, Tonghe Wang, Matthew Thomas, <strong>Leonardo Tang</strong>, Walter J. Curran, Tian Liu, and Xiaofeng Yang"
-venue: "Medical Physics"
+venue: "Medical Physics, 2019"
 bib: |
   @article{https://doi.org/10.1002/mp.13458,
     author = {Dong, Xue and Lei, Yang and Wang, Tonghe and Thomas, Matthew and Tang, Leonardo and Curran, Walter J. and Liu, Tian and Yang, Xiaofeng},

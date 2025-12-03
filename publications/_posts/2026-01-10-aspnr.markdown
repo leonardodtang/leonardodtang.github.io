@@ -1,11 +1,11 @@
 ---
 title:  "Glymphatic dysfunction in pediatric-onset multiple sclerosis and anti-myelin oligodendrocyte glycoprotein antibody associated disorder [Scientific Poster]"
-date:   2026-03-28 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image.jpg
+date:   2025-12-02 09:26:00 +00:00
+image: /publications/images/aspnr2026.jpg
+image_onhover: /publications/images/aspnr2026.jpg
 author: "Austin Wheeler, <strong>Leonardo Tang</strong>, Quanquan Gu, Yuri Shishido, Hui Mao, Grace Gombolay, Adam Ezra Goldman-Yassen"
 authors: "Austin Wheeler, <strong>Leonardo Tang</strong>, Quanquan Gu, Yuri Shishido, Hui Mao, Grace Gombolay, Adam Ezra Goldman-Yassen"
-venue: "ASPNR (Upcoming)"
+venue: "ASPNR 2026 (Upcoming)"
 links:
   soon: https://www.aspnr.org
 ---
