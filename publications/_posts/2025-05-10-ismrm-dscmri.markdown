@@ -5,7 +5,7 @@ image: /publications/images/ismrm2025.jpg
 image_onhover: /publications/images/ismrm2025.jpg
 author: "Leonardo Tang, Quanquan Gu, Tianhe Wu, Adam Ezra Goldman-Yassen, Hui Mao"
 authors: "<strong>Leonardo Tang</strong>, Quanquan Gu, Tianhe Wu, Adam Ezra Goldman-Yassen, Hui Mao"
-venue: "ISMRM 2025"
+venue: "2025 International Society for Magnetic Resonance in Medicine Annual Meeting & Exhibition (ISMRM)"
 links:
   abstract: https://archive.ismrm.org/2025/4292.html
   

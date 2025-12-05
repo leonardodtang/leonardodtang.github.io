@@ -5,7 +5,7 @@ image: /publications/images/aspnr2026.jpg
 image_onhover: /publications/images/aspnr2026.jpg
 author: "Austin Wheeler, <strong>Leonardo Tang</strong>, Quanquan Gu, Yuri Shishido, Hui Mao, Grace Gombolay, Adam Ezra Goldman-Yassen"
 authors: "Austin Wheeler, <strong>Leonardo Tang</strong>, Quanquan Gu, Yuri Shishido, Hui Mao, Grace Gombolay, Adam Ezra Goldman-Yassen"
-venue: "ASPNR 2026 (Upcoming)"
+venue: "8th Annual American Society of Pediatric Neurology Scientific Meeting (ASPNR 2026, Upcoming)"
 links:
   soon: https://www.aspnr.org
 ---

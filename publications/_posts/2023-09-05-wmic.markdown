@@ -5,7 +5,7 @@ image: /publications/images/wmic2023.jpg
 image_onhover: /publications/images/wmic2023.jpg
 author: "Leonardo Tang, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao"
 authors: "<strong>Leonardo Tang</strong>, Farid Hajibonabi, Kartik M. Reddy, Quanquan Gu, Hui Mao"
-venue: "WMIC 2023"
+venue: "2023 World Molecular Imaging Conference (WMIC)"
 links:
   abstract: https://www.xcdsystem.com/wmis/program/K0ssSya/index.cfm?pgid=2836&sid=26427&abid=101798
 ---
